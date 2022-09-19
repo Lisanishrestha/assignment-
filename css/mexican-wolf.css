@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(197, 197, 197);
+    text-align: center;
+}
+
+div.transbox {
+    margin: 30px;
+    background-color: rgba(132, 132, 132, 0.787);
+    border: 2px solid rgb(250, 243, 243);
+}
+
+h1 {
+    color: rgb(241, 238, 238);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+}
+
+h2 {
+    color: brown;
+    font-family: Times New Roman;
+    font-size: 22px;
+}
+
+p {
+    color: darkgreen;
+    font-family: Times New Roman;
+    font-size: 18px;
+}

@@ -1,0 +1,26 @@
+body {
+    background-color: rgba(255, 164, 85, 0.981);
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h2 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-top: 7px;
+}
+
+p {
+    color: darkgreen;
+    font-family: Times New Roman;
+    font-size: 20px;
+    text-align: left;
+}
