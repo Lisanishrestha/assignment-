@@ -1,0 +1,20 @@
+title {
+    font-family: 'Courier New', monospace;
+}
+
+body {
+    background-color: rgb(255, 209, 146);
+    text-align: center;
+}
+
+h1 {
+    padding-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+}
+
+p {
+    color: darkgreen;
+    font-family: Arial;
+    font-size: 18px;
+}
