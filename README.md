@@ -2,4 +2,4 @@
 
 This repository is the website starter code for Assignment 1 - Zoo.
 
-[Website link](https://lisanishrestha.github.io/assignment-/)
+[Website link]
