@@ -13,8 +13,16 @@ h1 {
     font-size: 24px;
 }
 
+h2 {
+    padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20 px
+}
+
 p {
     color: darkgreen;
     font-family: Arial;
     font-size: 18px;
+    font-style: italic;
+    text-align: left;
 }
