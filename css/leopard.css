@@ -10,19 +10,19 @@ body {
 h1 {
     padding-top: 20px;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 24px;
+    font-size: 30px;
+    color: rgb(189, 108, 10);
 }
 
 h2 {
     padding-top: 20px;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20 px
+    font-size: 27px;
 }
 
-p {
-    color: darkgreen;
-    font-family: Arial;
+ul {
+    color: rgb(27, 0, 69);
+    font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
-    font-style: italic;
     text-align: left;
 }
