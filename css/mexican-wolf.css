@@ -10,19 +10,20 @@ div.transbox {
 }
 
 h1 {
-    color: rgb(241, 238, 238);
+    padding-top: 20px;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 28px;
+    font-size: 30px;
 }
 
 h2 {
     color: brown;
     font-family: Times New Roman;
-    font-size: 22px;
+    font-size: 27px;
 }
 
-p {
+ul {
     color: darkgreen;
-    font-family: Times New Roman;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
+    text-align: left;
 }

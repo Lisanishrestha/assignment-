@@ -1,16 +1,16 @@
 body {
-    background-color: rgba(249, 208, 172, 0.461);
+    background-image: linear-gradient(to right, rgb(206, 255, 193), rgb(108, 166, 108), rgb(71, 132, 71));
     text-align: center;
 }
 
 h1 {
-    color: tomato;
+    color: rgb(183, 153, 5);
     font-family: Times New Roman;
     font-style: bold;
 }
 
 h2 {
-    color: darkgreen;
+    color: rgb(3, 39, 1);
     font-family: Times New Roman;
 }
 

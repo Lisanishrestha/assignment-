@@ -10,11 +10,20 @@ body {
 h1 {
     padding-top: 20px;
     font-family: 'Courier New', monospace;
-    font-size: 24px;
+    font-size: 30px;
+    color: darkred;
 }
 
-p {
-    color: darkgreen;
+h2 {
+    padding-top: 15px;
     font-family: Times New Roman;
+    color: rgb(3, 15, 69)
+}
+
+ul {
+    padding-top: 10 px;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
+    text-align: left;
+    color: black;
 }
